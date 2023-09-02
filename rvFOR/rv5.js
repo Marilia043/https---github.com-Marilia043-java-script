@@ -7,3 +7,5 @@ let n = Number(ler());
 for (let cont = 1; cont <= n; cont++) {
     process.stdout.write('*')
 }
+
+;
